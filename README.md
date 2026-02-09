@@ -564,6 +564,7 @@
 | https://github.com/ShenaoW/awesome-llm-supply-chain-security | LLM Supply chain security resources|
 | https://developer.nvidia.com/blog/secure-llm-tokenizers-to-maintain-application-integrity/ | Secure LLM Tokenizers to Maintain Application Integrity |
 | https://sightline.protectai.com/ | Sightline by ProtectAI <em>(ProtectAI is now part of Palo Alto Networks)</em><br><br>Check vulnerabilities on:<br>• Nemo by Nvidia<br>• Deep Lake<br>• Fine-Tuner AI<br>• Snorkel AI<br>• Zen ML<br>• Lamini AI<br>• Comet<br>• Titan ML<br>• Deepset AI<br>• Valohai<br><br>**For finding LLMops tools vulnerabilities** |
+| https://wearetyomsmnv.github.io/ml_supply_chain_map/ | My supply_chain map|
 | [ShadowMQ: How Code Reuse Spread Critical Vulnerabilities Across the AI Ecosystem](https://share.google/rBYXiMlAMeE4XCt2I) | Research on critical RCE vulnerabilities in AI inference servers (Meta Llama Stack, NVIDIA TensorRT-LLM, vLLM, SGLang, Modular) caused by unsafe ZeroMQ and pickle deserialization | Oligo Security |
 </div>
 
